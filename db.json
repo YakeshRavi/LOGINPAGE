@@ -1,0 +1,38 @@
+{
+
+  "customerid":[  
+    {
+      "email":"yakeshravi@gmail.com",
+      "password" :"qwerty"
+    },
+    {
+      "email":"tarunks@gmail.com",
+      "password":"poiuyt"
+    },
+    {
+      "email":"mavivask@gmail.com",
+      "password":"asdfgh"
+    },
+    {
+        "email":"hariprasath@gmail.com",
+        "password" : "assdfgh"
+    }
+]
+}
+
+{
+   "employeeid":[
+    {
+        "email":"yakesh@gmail.com",
+        "password" :"qwerty"
+      },
+      {
+        "email":"tarun@gmail.com",
+        "password":"poiuyt"
+      },
+      {
+        "email":"mavi@gmail.com",
+        "password":"asdfgh"
+      },
+]
+}
